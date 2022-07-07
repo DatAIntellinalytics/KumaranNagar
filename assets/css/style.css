@@ -463,7 +463,7 @@ section {
   list-style: none;
   text-align: center;
   background: #fff;
-  border-radius: 50px;
+  border-radius: 0px;
   padding: 2px 15px;
 }
 .portfolio #portfolio-flters li {
