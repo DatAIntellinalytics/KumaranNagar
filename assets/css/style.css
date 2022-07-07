@@ -468,7 +468,7 @@ section {
 }
 .portfolio #portfolio-flters li {
   cursor: pointer;
-  display:flex;inline-block;
+  display:inline-block;
   flex-wrap:wrap;
   justify-content: center;
   padding: 10px 15px 8px 15px;
